@@ -57,13 +57,13 @@ function SEO({ lang, meta, keywords, title }) {
           "itemListElement": [{
             "@type": "ListItem",
             "position": 1,
-            "name": "Cade.Codes",
-            "item": "https://cade.codes"
+            "name": "Delbert Friesen",
+            "item": "https://delbertfriesen.com"
           },{
             "@type": "ListItem",
             "position": 2,
             "name": "Home",
-            "item": "https://cade.codes"
+            "item": "https://delbertfriesen.com"
           }]
         }
       `}</script>
