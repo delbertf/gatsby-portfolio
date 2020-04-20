@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Cade Kynaston - Software Developer`,
-    description: `Cade Kynaston is a software developer based in Salt Lake City, Utah. He is currently focused on using React and Gatsby to create extremely fast and responsive websites`,
-    author: `@cadekynaston`,
-    url: `https://cade.codes`,
+    title: `Delbert Friesen - Software Developer`,
+    description: `Delbert Friesen is a software developer based in Switzerland. He is currently focused on mastering Ruby on Rails to get the most business value out of your Software.`,
+    author: `@delbertfriesen`,
+    url: `https://delbertfriesen.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
