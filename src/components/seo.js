@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import siteSnapshot from '../images/site-snapshot.png'
-import icon from '../images/gatsby-icon.png'
+import icon from '../images/favicon.png'
 
 function SEO({ lang, meta, keywords, title }) {
   const { site } = useStaticQuery(

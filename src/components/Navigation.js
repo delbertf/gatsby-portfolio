@@ -3,8 +3,8 @@ import styled from '@emotion/styled';
 import { Link , Events } from 'react-scroll'
 
 import { theme, media } from '../styles'
-import logoLight from '../images/ck-logo-light.svg'
-import logoDark from '../images/ck-logo-dark.svg'
+import logoLight from '../images/df-logo.png'
+import logoDark from '../images/df-logo.png'
 import SocialIconLinks from './socialIconLinks';
 
 const Nav = styled.nav`

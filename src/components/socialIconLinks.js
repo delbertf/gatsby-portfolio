@@ -3,9 +3,7 @@ import React from "react"
 import IconGithub from './images/github'
 import IconLinkedIn from './images/in'
 import IconTwitter from './images/twitter'
-import IconInstagram from './images/instagram'
-import IconCodepen from './images/codepen'
-import IconCodewars from './images/codewars'
+
 
 
 const SocialIconLinks = ({ iconClasses }) => {
